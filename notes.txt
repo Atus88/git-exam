@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Login feature started
 Temporary change
-=======
 Version 1
 Version 2
 Version 3
->>>>>>> 0fb1a86 (Version 3)
