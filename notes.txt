@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Login feature started
 Temporary change
-=======
 UI feature work
->>>>>>> 0d99051 (feature-ui v1)
-=======
 API feature work
->>>>>>> 8cb2e2b (feature-api V1)
